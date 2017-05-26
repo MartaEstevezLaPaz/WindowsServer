@@ -7,4 +7,24 @@ Asi mismo la recepcion constará de otro grupo (grupo1) formado igualmente por o
 
 Para realizar la empresa deberemos seguir los siguientes pasos:
 
+1.- Instalaremos el DCPROMO.EXE
+
+2.- Haremos el siguiente paso
+
 ![foto](1.PNG)
+
+3.- Crearemos las dos unidades organizativas (bar y recepcion). Creamos los usuarios y los equipos asi como el grupo.
+
+![foto](2.PNG)
+![foto](3.PNG)
+
+4.- Añadimos los respectivos miembros al grupo
+
+![foto](6.PNG)
+
+5.- Asignamos los horarios a cada usuario, asi como el equipo al que van a tener acceso
+
+![foto](4.PNG)
+![foto](5.PNG)
+
+6.- FIN
